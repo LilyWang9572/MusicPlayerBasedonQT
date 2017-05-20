@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>songs/Free to Be.mp3</file>
+        <file>songs/Boat Song.mp3</file>
+        <file>songs/Hard Out Here.mp3</file>
+    </qresource>
+</RCC>
